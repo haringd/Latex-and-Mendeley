@@ -1,0 +1,133 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.9 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global}
+    \entry{MikTex}{misc}{}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labeltitlesource}{title}
+      \field{title}{{Home - MiKTeX.org}}
+      \field{urlday}{18}
+      \field{urlmonth}{6}
+      \field{urlyear}{2019}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://miktex.org/
+      \endverb
+      \verb{url}
+      \verb https://miktex.org/
+      \endverb
+    \endentry
+    \entry{TexStudio}{misc}{}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labeltitlesource}{title}
+      \field{title}{{TeXstudio}}
+      \field{urlday}{18}
+      \field{urlmonth}{6}
+      \field{urlyear}{2019}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.texstudio.org/
+      \endverb
+      \verb{url}
+      \verb https://www.texstudio.org/
+      \endverb
+    \endentry
+    \entry{Mendeley}{misc}{}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{labeltitlesource}{title}
+      \field{title}{{Mendeley - Reference Management Software {\&} Researcher Network}}
+      \field{urlday}{18}
+      \field{urlmonth}{6}
+      \field{urlyear}{2019}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.mendeley.com/?interaction{\_}required=true
+      \endverb
+      \verb{url}
+      \verb https://www.mendeley.com/?interaction%7B%5C_%7Drequired=true
+      \endverb
+    \endentry
+    \entry{Vizmuller1995}{book}{}
+      \name{author}{1}{}{%
+        {{hash=1535082ead37abe8f3dc51838d35d9fa}{%
+           family={Vizmuller},
+           familyi={V\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Boston, London}%
+      }
+      \list{publisher}{1}{%
+        {Artech House, Inc.}%
+      }
+      \strng{namehash}{1535082ead37abe8f3dc51838d35d9fa}
+      \strng{fullhash}{1535082ead37abe8f3dc51838d35d9fa}
+      \strng{bibnamehash}{1535082ead37abe8f3dc51838d35d9fa}
+      \strng{authorbibnamehash}{1535082ead37abe8f3dc51838d35d9fa}
+      \strng{authornamehash}{1535082ead37abe8f3dc51838d35d9fa}
+      \strng{authorfullhash}{1535082ead37abe8f3dc51838d35d9fa}
+      \field{sortinit}{4}
+      \field{sortinithash}{11cdaee3b18e01d77f3f428b13c1fc76}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{0-89006-754-6}
+      \field{title}{{RF Design Guide}}
+      \field{year}{1995}
+      \field{pages}{281}
+      \range{pages}{1}
+    \endentry
+    \entry{1513092}{inproceedings}{}
+      \name{author}{1}{}{%
+        {{hash=1bee13ce5e64758a0f61e178a2edd7b9}{%
+           family={{Litwinczuk}},
+           familyi={L\bibinitperiod},
+           given={N.},
+           giveni={N\bibinitperiod}}}%
+      }
+      \strng{namehash}{1bee13ce5e64758a0f61e178a2edd7b9}
+      \strng{fullhash}{1bee13ce5e64758a0f61e178a2edd7b9}
+      \strng{bibnamehash}{1bee13ce5e64758a0f61e178a2edd7b9}
+      \strng{authorbibnamehash}{1bee13ce5e64758a0f61e178a2edd7b9}
+      \strng{authornamehash}{1bee13ce5e64758a0f61e178a2edd7b9}
+      \strng{authorfullhash}{1bee13ce5e64758a0f61e178a2edd7b9}
+      \field{sortinit}{5}
+      \field{sortinithash}{3c19c3776b658b3558e9e2e4840c01e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This paper presents a problem of computer-aided design of an automatic matching devices controlled in wide frequency band. Method of matching of the complex impedance with a dynamic change in the given frequency band is proposed. A binary control algorithm of the automatic matching of the arbitrary complex loads is presented. A structure of ideal network and quantum and coding of variable network element values are described. Models of the real elements, macroelements and the whole matching device with taken into account of loss and parasitic parameters are presented. Results of computer-aided design and simulation of device characteristics in the given frequency band are represented.}
+      \field{booktitle}{IEEE 6th International Symposium on Electromagnetic Compatibility and Electromagnetic Ecology, 2005.}
+      \field{month}{6}
+      \field{title}{Computer-aided design of automatic antenna matching devices}
+      \field{year}{2005}
+      \field{pages}{166\bibrangedash 170}
+      \range{pages}{5}
+      \verb{doi}
+      \verb 10.1109/EMCECO.2005.1513092
+      \endverb
+      \keyw{binary codes;impedance matching;control system CAD;broadband antennas;computer-aided design;automatic antenna matching device;wide frequency band control;complex impedance;binary control algorithm;arbitrary complex load;variable network element coding;macroelement;parasitic parameter;Design automation;Frequency;Impedance;Automatic control;Radio transmitters;Broadband antennas;Bandwidth;Radiofrequency integrated circuits;EMP radiation effects;Attenuators}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

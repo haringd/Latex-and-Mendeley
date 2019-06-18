@@ -1,0 +1,12 @@
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 1
+\BOOKMARK [1][-]{section.2}{Software}{}% 2
+\BOOKMARK [2][-]{subsection.2.1}{Software Tools}{section.2}% 3
+\BOOKMARK [2][-]{subsection.2.2}{Git, GitHub}{section.2}% 4
+\BOOKMARK [2][-]{subsection.2.3}{Install LaTeX}{section.2}% 5
+\BOOKMARK [3][-]{subsubsection.2.3.1}{Install MiKTeX}{subsection.2.3}% 6
+\BOOKMARK [3][-]{subsubsection.2.3.2}{Install TexStudio}{subsection.2.3}% 7
+\BOOKMARK [2][-]{subsection.2.4}{TexStudio Hints}{section.2}% 8
+\BOOKMARK [3][-]{subsubsection.2.4.1}{Edit Default Language and Dictionary}{subsection.2.4}% 9
+\BOOKMARK [3][-]{subsubsection.2.4.2}{Convert a *.md file into a *.tex file}{subsection.2.4}% 10
+\BOOKMARK [2][-]{subsection.2.5}{biblatex, make citations with LaTeX}{section.2}% 11
+\BOOKMARK [1][-]{section.3}{File Used and Structure}{}% 12
